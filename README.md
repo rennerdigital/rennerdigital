@@ -1,4 +1,4 @@
-<p align="center" width="750"><img alt="coding" width="max" src="https://i.imgur.com/NxgNcky.jpg"></p>
+<p align="center" width="750" height="450"><img alt="coding" width="max" src="https://i.imgur.com/NxgNcky.jpg"></p>
 
 ### Hi there 👋
 
