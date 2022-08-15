@@ -1,4 +1,4 @@
-<p align="center"><img src="https://i.imgur.com/NxgNcky.jpg"></p>
+<p align="center"><img src="https://i.imgur.com/NxgNcky.jpg" alt="keyboard" height="250"></p>
 
 ### Hi there 👋
 
