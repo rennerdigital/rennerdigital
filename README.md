@@ -4,7 +4,3 @@
 <h2 align="center">Full Stack Developer | General Assembly Graduate</h2>
 
 -----
-
-<h3>Hi, I'm Renner - a General Assembly graduate in Software Engineering</h3>
-
-<p>I'm a General Assembly graduate in Software Engineering.</p>
